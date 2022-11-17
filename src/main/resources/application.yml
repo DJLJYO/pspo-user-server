@@ -1,7 +1,7 @@
 server:
-  port: 8240
+  port: 8241
 spring:
   application:
-    name: userServer
+    name: userService
   profiles:
     active: dev
